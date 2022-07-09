@@ -3,9 +3,8 @@
 
 <head>
   <link rel="stylesheet"
-        ref="styles.css"/>
+        ref="CSS.txt"/>
 </head>
-
 <body>
   <main id="main">
     <h1 id="title">Girlschool</h1>
@@ -67,86 +66,3 @@
 </body>
 
 </html>
-html {
-   font-size: 10px;
-}
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
-    'Helvetica Neue', Arial, sans-serif;
-  font-size: 1.6rem;
-  line-height: 1.5;
-  text-align: center;
-  color:Purple;
-  margin: 0;
-}
-
-h1 {
-  font-size: 4rem;
-  margin-bottom: 0;
-}
-
-h2 {
-  font-size: 3.25rem;
-}
-h3 {
-  font-size: 2.5rem;
-}
-
-a {
-  color: red;
-}
-
-a:visited {
-  color: #74638f;
-}
-
-#main {
-  margin: 30px 8px;
-  padding: 15px;
-  border-radius: 5px;
-  background: #eee;
-}
-
-img {
-  max-width: 100%;
-  display: block;
-  height: auto;
-  margin: 0 auto;
-}
-
-#img-div {
-  background: purple;
-  padding: 10px;
-  margin: 0;
-}
-
-#img-caption {
-  margin:  0;
-  color: black;
-  text-align: left;
-  font-size: 1.4rem;
-}
-
-#headline {
-  margin: 50px 0;
-  text-align: center;
-}
-
-ul {
-  max-width: 100%;
-  margin: 0 auto 50px auto;
-  text-align: centre;
-  line-height: 1;
-}
-
-li {
-  margin: 6;
-}
-
-blockquote {
-  font-style: italic;
-  max-width: 545px;
-  margin: 0 auto 50px auto;
-  text-align: centre;
-}
