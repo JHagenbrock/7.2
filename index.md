@@ -3,7 +3,7 @@
 
 <head>
   <link rel="stylesheet"
-        ref="CSS.txt"/>
+        ref="styles.css/>
 </head>
 <body>
   <main id="main">
